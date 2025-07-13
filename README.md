@@ -1,4 +1,4 @@
-### Unravelling the role of ERG in EMT related genes in a prostate cancer _in vitro_ model 240705581_Supplementary_data
+# Unravelling the role of ERG in EMT related genes in a prostate cancer _in vitro_ model 240705581_Supplementary_data
 ## Author 
 Student No. 240705581
 ## Process
@@ -18,6 +18,6 @@ https://www.cbioportal.org/results/download?cancer_study_list=prad_su2c_2019&Z_S
 Result output for GSEA, pre-ranked gene list, differentally expressed gene list  has been attached in results folder 
 
 
-# Software version 
+## Software version 
 R version 4.5.1 (13.06.2025)
 GSEA version 4.4.0 (08.04.2025)
