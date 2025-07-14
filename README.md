@@ -21,3 +21,10 @@ Result output for GSEA, pre-ranked gene list, differentally expressed gene list 
 ## Software version 
 R version 4.5.1 (13.06.2025)
 GSEA version 4.4.0 (08.04.2025)
+tidyverse version 2.0.0 (??)
+BiocManager version 1.30.26 ??
+Bioconductor version 3.20 (28.02.2025)
+limma version 3.62.2
+ggplot2 version 3.5.2
+ggrepel version 0.9.6
+dplyr version 1.1.4
