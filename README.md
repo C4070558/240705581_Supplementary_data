@@ -29,3 +29,4 @@ Result output for GSEA, pre-ranked gene list, differentally expressed gene list 
 * limma version 3.62.2
 * ggplot2 version 3.5.2
 * ggrepel version 0.9.6
+* preprocessCore 1.66.0.
